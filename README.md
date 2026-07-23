@@ -354,7 +354,6 @@ Loan-Portfolio-Credit-Risk-Analysis/
 
 <img width="919" height="525" alt="Borrower Profile Analysis" src="https://github.com/user-attachments/assets/905190b5-35b5-44fd-b070-437a83000f8d" />
 
-```
 
 ---
 
