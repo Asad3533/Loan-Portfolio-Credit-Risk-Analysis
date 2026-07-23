@@ -343,9 +343,9 @@ Loan-Portfolio-Credit-Risk-Analysis/
 
 
 
-Example:
 
-```markdown
+
+```
 <img width="917" height="524" alt="Executive Overview" src="https://github.com/user-attachments/assets/496f8b87-a1c1-41a2-ae1c-b399b7af7b55" />
 
 
