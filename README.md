@@ -341,20 +341,20 @@ Loan-Portfolio-Credit-Risk-Analysis/
 
 ## 📷 Dashboard Preview
 
-
-
-
+### 📊 Executive Overview
 
 <img width="917" height="524" alt="Executive Overview" src="https://github.com/user-attachments/assets/496f8b87-a1c1-41a2-ae1c-b399b7af7b55" />
 
+### ⚠️ Credit Risk & Loan Performance
 
-<img width="936" height="532" alt="Credit Risk   Loan Performance" src="https://github.com/user-attachments/assets/448b7c05-22e2-42ef-8552-e4a17e90687d" />
+<img width="936" height="532" alt="Credit Risk & Loan Performance" src="https://github.com/user-attachments/assets/448b7c05-22e2-42ef-8552-e4a17e90687d" />
 
+### 👤 Borrower Profile Analysis
 
 <img width="919" height="525" alt="Borrower Profile Analysis" src="https://github.com/user-attachments/assets/905190b5-35b5-44fd-b070-437a83000f8d" />
 
-
 ---
+
 
 ## 📚 Skills Demonstrated
 
